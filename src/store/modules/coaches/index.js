@@ -8,7 +8,7 @@ export default {
     return {
       coaches: [
         {
-          id: "c1",
+          id: "ferq3213fwdd",
           firstName: "Max",
           lastName: "Schwarz",
           areas: ["frontend", "backend", "career"],
@@ -17,7 +17,7 @@ export default {
           hourlyRate: 30,
         },
         {
-          id: "c2",
+          id: "g2tvrb3224c2",
           firstName: "Julie",
           lastName: "Jones",
           areas: ["frontend", "career"],
